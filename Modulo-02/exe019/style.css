@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgb(207, 255, 134);
+}
+
+#principal { /* só podem ser usadas uma vez */
+    background-color: aliceblue;
+}
+
+.secundaria { /* podem ser usadas diversas vezes */
+    background-color: grey;
+}
+
+.destaque {
+    color:blueviolet;
+}
